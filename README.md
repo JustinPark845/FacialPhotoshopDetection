@@ -1,10 +1,11 @@
 # FacialPhotoshopDetection
 
-To run the code:
-Download all files in repo
-Upload to google drive
-Create a ckpt folder in the root directory
-Run all code from PhotoshopDetector.pynb
+__To run the code:__
+- Download all files in repo
+- Upload to google drive
+- Create a ckpt folder in the root directory
+- Run all code from PhotoshopDetector.pynb
+
 Contributions:
 PhotoshopDetection.ipynb - Ryan, Justin
 PhotoshopDetectionCreateCopyPasteDataset.ipynb - Justin
