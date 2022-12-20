@@ -11,9 +11,9 @@ PhotoshopDetection.ipynb - Ryan, Justin<br>
 PhotoshopDetectionCreateCopyPasteDataset.ipynb - Justin<br>
 PhotoshopDetectionCreateWarpDataset.ipynb - Ryan<br>
 Data images<br>
-&nbsp;&nbsp;&nbsp;Copy & Pasted- Ryan, Justin<br>
-&nbsp;&nbsp;&nbsp;Warped and Copy & Pasted - Jonathan<br>
-&nbsp;&nbsp;&nbsp;CSV - Justin
+- Copy & Pasted- Ryan, Justin<br>
+- Warped and Copy & Pasted - Jonathan<br>
+- CSV - Justin
 
 Computer_Vision_Final_Project - Google Drive
 MVSS - MVSS-Net-master - Google Drive
