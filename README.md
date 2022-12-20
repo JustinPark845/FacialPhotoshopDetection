@@ -1,19 +1,20 @@
 # FacialPhotoshopDetection
 
 __To run the code:__
-- Download all files in repo
-- Upload to google drive
+- Download all files in repo to a google drive
+- 
 - Create a ckpt folder in the root directory
 - Run all code from PhotoshopDetector.pynb
 
-Contributions:
+__Contributions:__
 PhotoshopDetection.ipynb - Ryan, Justin
 PhotoshopDetectionCreateCopyPasteDataset.ipynb - Justin
 PhotoshopDetectionCreateWarpDataset.ipynb - Ryan
 Data images
-Copy & Pasted- Ryan, Justin
-Warped and Copy & Pasted - Jonathan
-CSV - Justin
+&nbsp;Copy & Pasted- Ryan, Justin
+&nbsp;Warped and Copy & Pasted - Jonathan
+&nbsp;CSV - Justin
+
 Computer_Vision_Final_Project - Google Drive
 MVSS - MVSS-Net-master - Google Drive
 FAL - FALdetector-master - Google Drive
