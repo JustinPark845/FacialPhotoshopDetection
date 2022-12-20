@@ -4,9 +4,9 @@ MVSS: [MVSS-Net-Master](https://drive.google.com/drive/u/0/folders/1I-AV0b1gHt9J
 FALdetector: [FALdetector-master](https://drive.google.com/drive/u/0/folders/1q7XlzI3YiLAf58YWp6KvvMbsbizlyLmv)<br>
 
 __To run the code:__
-- Download all files in Original Google Drive
+- Download all files from Original Google Drive
 - Download all files from MVSS-Net-Master
-- Download all files in FALdetector-master
+- Download all files from FALdetector-master
 - Run all code from PhotoshopDetector.pynb<br>
 
 __Contributions:__<br>
