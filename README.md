@@ -6,7 +6,7 @@ __To run the code:__
 - Create a ckpt folder in the root directory
 - Run all code from PhotoshopDetector.pynb
 
-__Contributions:__
+__Contributions:__<br>
 PhotoshopDetection.ipynb - Ryan, Justin<br>
 PhotoshopDetectionCreateCopyPasteDataset.ipynb - Justin<br>
 PhotoshopDetectionCreateWarpDataset.ipynb - Ryan<br>
