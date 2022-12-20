@@ -2,9 +2,7 @@
 Original Google Drive: [Computer_Vision_Final_Project](https://drive.google.com/drive/u/0/folders/1qRPzc_kkTeNinCAOMoXj6d_nwu-u_HfH)
 
 __To run the code:__
-- Download all files in repo to a google drive
-- 
-- Create a ckpt folder in the root directory
+- Download all files in Original Google Drive
 - Run all code from PhotoshopDetector.pynb
 
 __Contributions:__<br>
