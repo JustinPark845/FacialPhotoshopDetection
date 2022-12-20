@@ -1,7 +1,7 @@
 # FacialPhotoshopDetection
-Original Google Drive: [Computer_Vision_Final_Project](https://drive.google.com/drive/u/0/folders/1qRPzc_kkTeNinCAOMoXj6d_nwu-u_HfH)
-MVSS: [MVSS-Net-Master](https://drive.google.com/drive/u/0/folders/1I-AV0b1gHt9JC6fXMypktyD0Cjaxuggc)
-FALdetector: [FALdetector-master](https://drive.google.com/drive/u/0/folders/1q7XlzI3YiLAf58YWp6KvvMbsbizlyLmv)
+Original Google Drive: [Computer_Vision_Final_Project](https://drive.google.com/drive/u/0/folders/1qRPzc_kkTeNinCAOMoXj6d_nwu-u_HfH)<br>
+MVSS: [MVSS-Net-Master](https://drive.google.com/drive/u/0/folders/1I-AV0b1gHt9JC6fXMypktyD0Cjaxuggc)<br>
+FALdetector: [FALdetector-master](https://drive.google.com/drive/u/0/folders/1q7XlzI3YiLAf58YWp6KvvMbsbizlyLmv)<br>
 
 __To run the code:__
 - Download all files in Original Google Drive
