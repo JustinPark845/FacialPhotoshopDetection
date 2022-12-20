@@ -1,5 +1,5 @@
 # FacialPhotoshopDetection
-Original Google Drive: [https://drive.google.com/drive/u/0/folders/1qRPzc_kkTeNinCAOMoXj6d_nwu-u_HfH](Computer_Vision_Final_Project)
+Original Google Drive: [Computer_Vision_Final_Project](https://drive.google.com/drive/u/0/folders/1qRPzc_kkTeNinCAOMoXj6d_nwu-u_HfH)
 
 __To run the code:__
 - Download all files in repo to a google drive
