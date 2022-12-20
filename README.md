@@ -7,10 +7,10 @@ __To run the code:__
 - Run all code from PhotoshopDetector.pynb
 
 __Contributions:__
-PhotoshopDetection.ipynb - Ryan, Justin
-PhotoshopDetectionCreateCopyPasteDataset.ipynb - Justin
-PhotoshopDetectionCreateWarpDataset.ipynb - Ryan
-Data images
+PhotoshopDetection.ipynb - Ryan, Justin<br>
+PhotoshopDetectionCreateCopyPasteDataset.ipynb - Justin<br>
+PhotoshopDetectionCreateWarpDataset.ipynb - Ryan<br>
+Data images<br>
 &nbsp;Copy & Pasted- Ryan, Justin
 &nbsp;Warped and Copy & Pasted - Jonathan
 &nbsp;CSV - Justin
