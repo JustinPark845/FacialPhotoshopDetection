@@ -1,9 +1,13 @@
 # FacialPhotoshopDetection
 Original Google Drive: [Computer_Vision_Final_Project](https://drive.google.com/drive/u/0/folders/1qRPzc_kkTeNinCAOMoXj6d_nwu-u_HfH)
+MVSS: [MVSS-Net-Master](https://drive.google.com/drive/u/0/folders/1I-AV0b1gHt9JC6fXMypktyD0Cjaxuggc)
+FALdetector: [FALdetector-master](https://drive.google.com/drive/u/0/folders/1q7XlzI3YiLAf58YWp6KvvMbsbizlyLmv)
 
 __To run the code:__
 - Download all files in Original Google Drive
-- Run all code from PhotoshopDetector.pynb
+- Download all files from MVSS-Net-Master
+- Download all files in FALdetector-master
+- Run all code from PhotoshopDetector.pynb<br>
 
 __Contributions:__<br>
 PhotoshopDetection.ipynb - Ryan, Justin<br>
@@ -12,11 +16,8 @@ PhotoshopDetectionCreateWarpDataset.ipynb - Ryan<br>
 Data images<br>
 - Copy & Pasted- Ryan, Justin<br>
 - Warped and Copy & Pasted - Jonathan<br>
-- CSV - Justin
+- CSV - Justin<br>
 
-Computer_Vision_Final_Project - Google Drive
-MVSS - MVSS-Net-master - Google Drive
-FAL - FALdetector-master - Google Drive
 To run code for individual images, please refer to these githubs…
 PeterWang512/FALdetector: Code for the paper: Detecting Photoshopped Faces by Scripting Photoshop (github.com)
 dong03/MVSS-Net: code for Image Manipulation Detection by Multi-View Multi-Scale Supervision (github.com)
